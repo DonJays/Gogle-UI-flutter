@@ -1,54 +1,16 @@
-# Gogle-UI-flutter
-first ever mobile app development using flutter
-Topic:  Flutter
-Course:
-Date:  21-Feb-20
-Professor:
+# quick_bee
 
+A new Flutter project.
 
+## Getting Started
 
-Resources
-	* 
-https://flutter.dev/docs/get-started/install/windows   -- Install
-	* 
-https://github.com/hasnentai/quick_bee    -- clone it for the the meetup
-	* 
-Android studio - install flutter and dart and then open and select Android virtual device manager
+This project is a starting point for a Flutter application.
 
+A few resources to get you started if this is your first Flutter project:
 
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-
-
-Key Points
-	* 
-visual source Code - Install flutter (dart programming language is required if that is not installed along with flutter extension)
-	* 
- Stateless -- stat mgmt done by Provider in fluttter
-	* 
-Same as Web development -- good to know some alignment, some basic design stuffs
-
-
-
-
-
-Questions
-	* 
-
-
-
-
-
-Actions
-[] develop some App -- timer
-[] develop for TT
-[] GaME - my famous school game
-[]
-[]
-[]
-
-
-Summary of Notes
-	* 
-
-
-
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
